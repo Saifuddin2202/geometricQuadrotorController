@@ -2,7 +2,7 @@
 
 
 
-## 1) Open the model:
+## Open the model:
 
 ## Set:
 
